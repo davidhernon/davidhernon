@@ -1,4 +1,4 @@
-### Hi, I am David 👋
+### Hi, I'm David 👋
 
 <!-- Bio -->
 I operate as a full-stack developer with over five years of professional experience. I specialize in building front ends with a focus on UX and designing new tools for problems that haven't been solved yet. I love building with Node, TypeScript, React, and PostgreSQL. Moreover, comfortable working with Python, SQL, Bash, Redis, ElasticSearch, and other cutting edge tech.
