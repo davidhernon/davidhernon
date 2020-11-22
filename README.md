@@ -8,7 +8,6 @@ Even complicated software in unsolved domains should be built for a smooth user 
 <br>
 
 <!-- Social links -->
-[![](https://img.shields.io/badge/Blog-Another%20Dev-green?style=for-the-badge)](https://anotherdev.xyz)
 [![Linkedin: davidhernon](https://img.shields.io/badge/-davidhernon-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidhernon/)](https://www.linkedin.com/in/davidhernon/)
 [![Twitter: davidmhernon](https://img.shields.io/twitter/follow/davidmhernon?style=for-the-badge&logo=twitter)](https://twitter.com/davidmhernon) 
 
