@@ -1,16 +1,16 @@
-### Hi there 👋
-
-### Hi, I am Shihab 👋
+### Hi, I am David 👋
 
 <!-- Bio -->
-I operate as a full-stack developer with over three years of professional experience. I specialize in building back ends using TypeScript, JavaScript, Node.js, and MongoDB as the database. Moreover, I have been comfortable working with PHP, Python, SQL, Bash, Redis, Elasticsearch, among other cutting-edge technology. I am currently employed as a Software Engineer at [Toptal](https://toptal.com). Besides programming, computer gaming is a hobby of mine.
+I operate as a full-stack developer with over five years of professional experience. I specialize in building front ends with a focus on UX and designing new tools for problems that haven't been solved yet. I love building with Node, TypeScript, React, and PostgreSQL. Moreover, comfortable working with Python, SQL, Bash, Redis, ElasticSearch, and other cutting edge tech.
+
+Even complicated software in unsolved domains should be built for a smooth user experience.
 
 <br>
 
 <!-- Social links -->
 [![](https://img.shields.io/badge/Blog-Another%20Dev-green?style=for-the-badge)](https://anotherdev.xyz)
-[![Linkedin: shihabmridha](https://img.shields.io/badge/-shihabmridha-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shihabmridha/)](https://www.linkedin.com/in/shihabmridha/)
-[![Twitter: shihabmridha](https://img.shields.io/twitter/follow/shihabmridha?style=for-the-badge&logo=twitter)](https://twitter.com/shihabmridha) 
+[![Linkedin: davidhernon](https://img.shields.io/badge/-davidhernon-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidhernon/)](https://www.linkedin.com/in/davidhernon/)
+[![Twitter: davidmhernon](https://img.shields.io/twitter/follow/davidmhernon?style=for-the-badge&logo=twitter)](https://twitter.com/davidmhernon) 
 
 
 ### Language & tools used
